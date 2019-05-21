@@ -1,8 +1,0 @@
-#启动配置文件
-spring:  
-   profiles:  
-        active: home
-#项目路径
-server:
-context-path:
-        /springbootdemo/
